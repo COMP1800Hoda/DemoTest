@@ -5,11 +5,8 @@
 * [Contents](#content)
 
 ## General Info
-This browser based web application to ...
+Set F is the best :)
 
-Hoda Rashedi is changing this for Lab Demo.
-brad is changing this for demo
-	
 ## Technologies
 Technologies used for this project:
 * HTML, CSS
