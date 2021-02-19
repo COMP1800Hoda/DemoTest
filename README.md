@@ -5,10 +5,7 @@
 * [Contents](#content)
 
 ## General Info
-This browser based web application to ...
-
-Hoda Rashedi is changing this for Lab Demo.
-brad is changing this for demo
+This is Hoda overwriting the same sentence. So that we can see conflict.
 	
 ## Technologies
 Technologies used for this project:
