@@ -7,6 +7,8 @@
 ## General Info
 This is Hoda overwriting the same sentence. So that we can see conflict.
 	
+Set F is the best :)
+
 ## Technologies
 Technologies used for this project:
 * HTML, CSS
